@@ -1,0 +1,41 @@
+/* give your page a fun background color */
+body {
+  background-color: skyblue;
+}
+
+header {
+background-color: purple;
+font-family: fantasy;
+padding: 3px 0px 3px 0px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+footer {
+background-color: purple;
+text-align: center;
+padding: 3px 0px 3px 0px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  font-family: arial;
+}
+
+p {
+  font-style: italic;
+  color: gray;
+  text-align: center;
+
+}
+/* give your header and footer another background color */
+
+/* define the font for your header */
+
+/* remove the bullets from your unordered list */
+
+/* make your paragraph italic and a color that is not black */
